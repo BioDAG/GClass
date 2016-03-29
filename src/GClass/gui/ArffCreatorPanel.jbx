@@ -1,0 +1,16 @@
+[PropertyInfo]
+jdlButton,javax.swing.JButton,false,false, , ,false,<default>
+m_History,weka.gui.ResultHistoryPanel,false,false, , ,false,<default>
+m_OutText,javax.swing.JTextArea,false,false, , ,false,<default>
+preset1,javax.swing.JRadioButton,false,false, , ,false,<default>
+preset10,javax.swing.JRadioButton,false,false, , ,false,<default>
+preset1100,javax.swing.JRadioButton,false,false, , ,false,<default>
+preset20,javax.swing.JRadioButton,false,false, , ,false,<default>
+preset30,javax.swing.JRadioButton,false,false, , ,false,<default>
+startButton,javax.swing.JButton,false,false, , ,false,<default>
+stopButton,javax.swing.JButton,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
